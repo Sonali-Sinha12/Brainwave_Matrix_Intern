@@ -48,6 +48,7 @@ Exploring the Amazon Sales Dataset follows a structured approach. We begin by cl
 📈 **Key Findings:**
 
 🔯It provides a wealth of information about customer behavior, product trends and market conditions.
+
 🔯By conducting exploratory data analysis (EDA) on this dataset, businesses can gain valuable insights that can help them make better decisions about their 
    products, marketing, and operations.
 
