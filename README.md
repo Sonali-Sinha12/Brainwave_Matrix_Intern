@@ -3,30 +3,30 @@
 This repository contains a data-driven analysis of Amazon sales using Python to visualize key insights.
 
 ---
-### 📌 Task Overview
+# 📌 Task Overview
 Exploring the Amazon Sales Dataset follows a structured approach. We begin by cleaning and preparing the data to ensure its accuracy and consistency. After that, we use descriptive statistics to summarize the data, calculating values such as averages and ranges. Next, we create visualizations like charts and graphs to identify patterns and relationships within the data. We also look for outliers—data points that deviate significantly from the norm—and test any hypotheses we may have. To gain deeper insights, we group the data into relevant categories.
 
 ---
-### Images Overview:
+ **Images Overview:**
 
-• **Missing values**
+• Missing values
 
-•	**Missing values percentage**
+•	Missing values percentage
 
-•	**Scatter plot**
+•	Scatter plot
 
-•	**Histogram**
+•	Histogram
 
-•	**Heatmap**
+•	Heatmap
 
-•	**Correlation matrix(Pearson)**
+•	Correlation matrix(Pearson)
 
-•	**Correlation matrix(Spearson)**
+•	Correlation matrix(Spearson)
 
                   
 
 ---
-###📂 **Files in the Repository:**
+📂 **Files in the Repository:**
 
 •	Amazon Sales Analysis.ipynb
 
@@ -37,19 +37,19 @@ Exploring the Amazon Sales Dataset follows a structured approach. We begin by cl
 •	Amazon.csv - CSV file of the Dataset
 
 ---
-###🛠️ **Tools & Technologies:**
+🛠️ **Tools & Technologies:**
 
-1. Pandas: Data manipulation and analysis
+1. **Pandas**: Data manipulation and analysis
 
-2. Numpy: Numerical operations and calculations
+2. **Numpy**: Numerical operations and calculations
 
-3. Matplotlib: Data visualization and plotting
+3. **Matplotlib**: Data visualization and plotting
 
-4. Seaborn: Enhanced data visualization and statistical graphics
+4. **Seaborn**: Enhanced data visualization and statistical graphics
 
-5. Scipy: Scientific computing and advanced mathematical operations
+5. **Scipy**: Scientific computing and advanced mathematical operations
 ---
-###📈 **Key Findings:**
+📈 **Key Findings:**
 
 🔯It provides a wealth of information about customer behavior, product trends and market conditions.
 
