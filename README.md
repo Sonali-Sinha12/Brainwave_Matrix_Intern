@@ -56,26 +56,28 @@ Exploring the Amazon Sales Dataset follows a structured approach. We begin by cl
 🔯By conducting exploratory data analysis (EDA) on this dataset, businesses can gain valuable insights that can help them make better decisions about their 
    products, marketing, and operations.
 
-# Twitter Sentiment Analysis
 
-## Overview
+---
+## Twitter Sentiment Analysis
 
+### 📌 Overview
 Welcome to the "Twitter Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. The primary goal is to classify tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion and sentiment trends on Twitter.
 
 **Explore the project directly on Google Colab:** [Twitter Sentiment Analysis](https://colab.research.google.com/drive/1GjX5aTimLorze58SbGG_85HntNXGzvwa?usp=sharing)
 
-## Project Description
 
+---
+### Project Description
 Twitter (Now X) sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
 
-## Dataset
 
+---
+### Dataset
 The dataset used in this project is the Sentiment140 dataset from Kaggle, which consists of 1.6 million tweets extracted using the Twitter API. Each tweet is labelled with its sentiment polarity (0 for negative, 2 for neutral, and 4 for positive), making it suitable for sentiment analysis tasks.
 
-**Dataset Link:** [Sentiment140 Dataset on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
-## Models Used
-
+---
+### Models Used
 Three different models have been employed in this project for sentiment analysis:
 
 1. **Bernoulli Naive Bayes Classifier:**
@@ -87,6 +89,8 @@ Three different models have been employed in this project for sentiment analysis
 3. **Logistic Regression:**
    - Logistic Regression is a classic classification algorithm that models the probability of a binary outcome. It's widely used for text classification and sentiment analysis tasks.
 
+
+---
 ## Evaluation Metrics
 
 The performance of the sentiment analysis models was evaluated using the following metrics:
@@ -95,6 +99,8 @@ The performance of the sentiment analysis models was evaluated using the followi
 - **F1-Score:** Harmonic mean of precision and recall, useful for imbalanced datasets.
 - **ROC-AUC Score:** Area under the Receiver Operating Characteristic (ROC) curve, which measures the model's ability to distinguish between positive and negative classes.
 
+
+---
 ## Usage
 
 To run the project and explore the sentiment analysis models:
