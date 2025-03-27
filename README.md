@@ -71,12 +71,6 @@ Twitter (Now X) sentiment analysis is a crucial task for understanding public op
 
 
 ---
-### Dataset
-
-The dataset used in this project is the Sentiment140 dataset from Kaggle, which consists of 1.6 million tweets extracted using the Twitter API. Each tweet is labelled with its sentiment polarity (0 for negative, 2 for neutral, and 4 for positive), making it suitable for sentiment analysis tasks.
-
-
----
 ### Models Used
 
 Three different models have been employed in this project for sentiment analysis:
@@ -101,15 +95,6 @@ The performance of the sentiment analysis models was evaluated using the followi
 - **ROC-AUC Score:** Area under the Receiver Operating Characteristic (ROC) curve, which measures the model's ability to distinguish between positive and negative classes.
 
 
----
-### Usage
-
-To run the project and explore the sentiment analysis models:
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/sarthaklambaa/Twitter-Sentiment-Analysis.git
-   ```
 
 2. Run the main script or Jupyter Notebook to train and evaluate the models on the Sentiment140 dataset.
 
