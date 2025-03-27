@@ -92,7 +92,7 @@ Three different models have been employed in this project for sentiment analysis
 
 
 ---
-## Evaluation Metrics
+### Evaluation Metrics
 
 The performance of the sentiment analysis models was evaluated using the following metrics:
 
@@ -102,7 +102,7 @@ The performance of the sentiment analysis models was evaluated using the followi
 
 
 ---
-## Usage
+### Usage
 
 To run the project and explore the sentiment analysis models:
 
