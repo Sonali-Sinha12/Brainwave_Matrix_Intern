@@ -60,24 +60,25 @@ Exploring the Amazon Sales Dataset follows a structured approach. We begin by cl
 ---
 ## Twitter Sentiment Analysis
 
-### 📌 Overview
+### 📌 Task Overview
 Welcome to the "Twitter Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. The primary goal is to classify tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion and sentiment trends on Twitter.
-
-**Explore the project directly on Google Colab:** [Twitter Sentiment Analysis](https://colab.research.google.com/drive/1GjX5aTimLorze58SbGG_85HntNXGzvwa?usp=sharing)
 
 
 ---
 ### Project Description
+
 Twitter (Now X) sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
 
 
 ---
 ### Dataset
+
 The dataset used in this project is the Sentiment140 dataset from Kaggle, which consists of 1.6 million tweets extracted using the Twitter API. Each tweet is labelled with its sentiment polarity (0 for negative, 2 for neutral, and 4 for positive), making it suitable for sentiment analysis tasks.
 
 
 ---
 ### Models Used
+
 Three different models have been employed in this project for sentiment analysis:
 
 1. **Bernoulli Naive Bayes Classifier:**
