@@ -58,7 +58,7 @@ Exploring the Amazon Sales Dataset follows a structured approach. We begin by cl
 
 
 ---
-## Twitter Sentiment Analysis
+## Task-2-Social Media Sentiment Analysis
 
 # 📌 Task Overview
 Welcome to the "Twitter Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. The primary goal is to classify tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion and sentiment trends on Twitter.
